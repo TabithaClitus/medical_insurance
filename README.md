@@ -1,3 +1,5 @@
+APP LINK:https://medicalinsurance-wfhnpdzcdiqunhukdvj7yt.streamlit.app/
+
 🏥 Medical Insurance Charges Prediction
 
 📌 Project Overview
