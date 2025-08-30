@@ -48,7 +48,7 @@ Outlier detection using IQR
 
 Modeling
 
-Models used:
+🎯MODELS USED:
 
 Linear Regression
 
@@ -58,7 +58,7 @@ Gradient Boosting Regressor
 
 XGBoost Regressor
 
-Evaluation Metrics
+🎯EVALUATION METRICS:
 
 Mean Absolute Error (MAE)
 
@@ -75,6 +75,7 @@ Hyperparameter Tuning
 GridSearchCV applied to optimize XGBoost
 
 📈 Results
+
 Model	MAE	RMSE	R²
 
 Linear Regression	2620.93	4458.44	0.63
